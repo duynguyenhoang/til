@@ -9,6 +9,7 @@
 * [Vscode](#vscode)
 * [Python](#python)
 * [Apache Spark](#apache-spark)
+* [Git](#git)
 
 ### Vscode
 
@@ -22,4 +23,8 @@
 ### Apache Spark
 
 - [Broadcast small table for better join performance](apache_spark/broadcast-small-table-for-better-performance.md)
+
+### Git
+
+- [How to remove git submodule effectively](git/remove-git-submodule-effectively.md)
 
