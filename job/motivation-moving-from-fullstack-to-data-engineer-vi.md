@@ -64,3 +64,10 @@ Hành trình tìm hiểu về Data Engineer của mình cũng không quá dài, 
 
 Nếu các bạn muốn mở rộng kiến thức, có ý định thử thách ở một khía cạch khác của IT, hãy mạnh dạn, chủ động tìm kiếm và nắm bắt cơ hội, bạn sẽ ít nhiều học và trải nghiệm thêm nhiều thứ.
 
+## Credit
+
+Chân thành cảm ơn các bạn đã review và góp ý:
+
+* [vozercotam](http://github.com/vozercotam)
+* Và nhiều bạn khác....
+
