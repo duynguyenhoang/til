@@ -15,7 +15,7 @@ Không cần nói thêm thì các bạn cũng biết ai đã tình nguyện gia 
 Lý do gia nhập là:
 
 * Mình cũng đã từng làm việc qua với team Data, thấy cũng hứng thú một phần với stack của nó.
-* Chính bản thân mình cũng là một người thích tìm hiểu rộng về nhiều thứ. Cớ hội để học hỏi một công việc hoàn toàn mới, không lý do gì để từ bỏ cơ hội này.
+* Chính bản thân mình cũng là một người thích tìm hiểu rộng về nhiều thứ. Cơ hội để học hỏi một công việc hoàn toàn mới, không lý do gì để từ bỏ cơ hội này.
 * Data Engineer và Machine Learning về mặt nào đó có sự liên kết rất chặc chẽ, và Machine Learning đang bùng nổ trong thời gian đó.
 
 ## Thử thách và khó khăn
@@ -62,5 +62,5 @@ Mình sẽ tiếp tục học và tìm hiểu thêm về Data Engineer, học v�
 
 Hành trình tìm hiểu về Data Engineer của mình cũng không quá dài, chỉ hơn 2 năm làm việc thật tế, ngoài việc tự cố gắng từ phía bản thân thì sự may mắn khi làm việc tại công ty cũng không phải là yếu tố nhỏ.
 
-Nếu các bạn có tìm hiểu qua, có ý định thử thách ở một khía cạch khác của IT, cứ trao cho bạn cơ hội, bạn sẽ ít nhiều học và trải nghiệm thêm nhiều thứ.
+Nếu các bạn muốn mở rộng kiến thức, có ý định thử thách ở một khía cạch khác của IT, hãy mạnh dạn, chủ động tìm kiếm và nắm bắt cơ hội, bạn sẽ ít nhiều học và trải nghiệm thêm nhiều thứ.
 
