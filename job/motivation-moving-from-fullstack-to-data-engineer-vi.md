@@ -56,9 +56,11 @@ Tới hiện tại, mình vẫn thấy hạnh phúc đi tiếp con đường Dat
 
 Mình sẽ tiếp tục học và tìm hiểu thêm về Data Engineer, học và thi vài chứng chỉ liên quan Big Data. Hiện tại sẽ bắt đầu tập chung vào `AWS Certified Big Data – Specialty` do mình quen thuộc với AWS nhất. Ngoài ra chứng chỉ của Google Cloud Platform - GCP cũng là một chứng chỉ có giá trị, mình đánh giá nó cao hơn AWS 
 
-## Câu chốt
+## Kết bài
 
 ![Big Data Quote](https://www.azquotes.com/picture-quotes/quote-big-data-is-like-teenage-sex-everyone-talks-about-it-nobody-really-knows-how-to-do-it-dan-ariely-66-19-39.jpg)
 
-Hành trình tìm hiểu về Data Engineer của mình cũng không quá dài, chỉ hơn 2 năm làm việc thật tế
+Hành trình tìm hiểu về Data Engineer của mình cũng không quá dài, chỉ hơn 2 năm làm việc thật tế, ngoài việc tự cố gắng từ phía bản thân thì sự may mắn khi làm việc tại công ty cũng không phải là yếu tố nhỏ.
+
+Nếu các bạn có tìm hiểu qua, có ý định thử thách ở một khía cạch khác của IT, cứ trao cho bạn cơ hội, bạn sẽ ít nhiều học và trải nghiệm thêm nhiều thứ.
 
