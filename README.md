@@ -10,11 +10,11 @@
 * [Python](#python)
 * [Apache Spark](#apache-spark)
 * [Git](#git)
+* [Terminal](#terminal)
 
 ### Vscode
 
 - [Use VSCode and File Hosting Service for your own awesome Note application](vscode/note-application-with-file-hosting-service.md)
-
 
 ### Python
 
@@ -27,4 +27,8 @@
 ### Git
 
 - [How to remove git submodule effectively](git/remove-git-submodule-effectively.md)
+
+### Terminal
+
+- [Copy current directory to clipboard](terminal/copy-current-directory-to-clipboard.md)
 
