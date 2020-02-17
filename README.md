@@ -32,3 +32,7 @@
 
 - [Copy current directory to clipboard](terminal/copy-current-directory-to-clipboard.md)
 
+### Mac
+
+- [Selection text in iTerm using keyboard](mac/selection-text-using-keyboard-in-iterm.md)
+
