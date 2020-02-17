@@ -11,6 +11,7 @@
 * [Apache Spark](#apache-spark)
 * [Git](#git)
 * [Terminal](#terminal)
+* [Mac](#mac)
 
 ### Vscode
 
