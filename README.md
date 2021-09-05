@@ -4,14 +4,14 @@
 
 ---
 
-### Categories
-
-* [Vscode](#vscode)
-* [Python](#python)
-* [Apache Spark](#apache-spark)
-* [Git](#git)
-* [Terminal](#terminal)
-* [Mac](#mac)
+- [TIL](#til)
+    - [Vscode](#vscode)
+    - [Python](#python)
+    - [Apache Spark](#apache-spark)
+    - [Git](#git)
+    - [Terminal](#terminal)
+    - [Mac](#mac)
+    - [Gaming](#gaming)
 
 ### Vscode
 
@@ -37,3 +37,7 @@
 
 - [Selection text in iTerm using keyboard](mac/selection-text-using-keyboard-in-iterm.md)
 
+
+### Gaming
+
+- [Steam issues on Manjaro Linux](gaming/fix-steam-issue-manjaro-linux.md)
